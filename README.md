@@ -5,7 +5,7 @@ File Renamer Ultra 2000 (originally called "A Program That Renames A Whole Bunch
 Since then, I released FRU2000 as freeware with the registration mechanism removed.
 
 The instructions to install FRU2000 are contained in the zip file.
-Runs on Windows 9x through 10.
+Runs on Windows 9x through 11.
 Rated FIVE COWS by TUCOWS!
 
 Original site mostly preseved by the Wayback Machine:
